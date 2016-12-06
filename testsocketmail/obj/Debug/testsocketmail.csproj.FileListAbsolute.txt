@@ -1,0 +1,6 @@
+E:\Project\testsocketmail\testsocketmail\bin\Debug\testsocketmail.exe.config
+E:\Project\testsocketmail\testsocketmail\bin\Debug\testsocketmail.exe
+E:\Project\testsocketmail\testsocketmail\bin\Debug\testsocketmail.pdb
+E:\Project\testsocketmail\testsocketmail\obj\Debug\testsocketmail.csprojResolveAssemblyReference.cache
+E:\Project\testsocketmail\testsocketmail\obj\Debug\testsocketmail.exe
+E:\Project\testsocketmail\testsocketmail\obj\Debug\testsocketmail.pdb
